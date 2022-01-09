@@ -36,6 +36,7 @@ head {
   margin: 0;
   padding: 13px 70px;
   list-style-type: none;
+  transition: .6s all;
 }
 
 .menu-link {
